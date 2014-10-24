@@ -18,33 +18,19 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-2': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-3': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-2': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-3': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '5-2': { icon: 'icons/wind.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '6-1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-2': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '1': { icon: 'icons/legislative.svg', color: '#C75746', bcolor: '#935B3B' }, // 議会費
+  '2': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費
+  '3': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' }, // 民生費
+  '4': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#D33673' }, // 衛生費
+  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' }, // 労働費
+  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' }, // 農林水産業費
+  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' }, // 商工費
+  '8': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#C75746' }, // 土木費
+  '9': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D33673' }, // 消防費
+  '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }, // 教育費
+  '11': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#790586' }, // 災害復旧費
+  '12': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#790586' }, // 公債費
+  '13': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' } // 予備費
 };
 
 
